@@ -1,0 +1,9 @@
+# ninja log v6
+10	602	8122477749940305	CMakeFiles/BSH_Engine.dir/src/bsh_engine.cpp.obj	c35316ca4133a1e9
+29	748	8122477750135621	CMakeFiles/BSH_Test.dir/src/bsh_engine.cpp.obj	76bfd72c4160ffb1
+23	781	8122477750065544	CMakeFiles/BSH_Test.dir/src/bsh_tensor.cpp.obj	bdcd78ad9ed9aea6
+3	825	8122477749876459	CMakeFiles/BSH_Engine.dir/src/bsh_tensor.cpp.obj	ed6b352f1e075d12
+17	836	8122477750005391	CMakeFiles/BSH_Engine.dir/src/main.cpp.obj	1f7a1dc68a7380f0
+36	850	8122477750195664	CMakeFiles/BSH_Test.dir/src/test_bsh.cpp.obj	6823d60549256446
+851	1164	8122477758354595	bin/BSH_Test.exe	ea7d06469416fcda
+837	1166	8122477758213784	bin/BSH_Engine.exe	f16ae803b9610322

@@ -1,0 +1,6 @@
+C:/Users/jessi/AppData/Local/Temp/bsh-harness/build_cmake/CMakeFiles/BSH_Engine.dir
+C:/Users/jessi/AppData/Local/Temp/bsh-harness/build_cmake/CMakeFiles/BSH_Test.dir
+C:/Users/jessi/AppData/Local/Temp/bsh-harness/build_cmake/CMakeFiles/verify.dir
+C:/Users/jessi/AppData/Local/Temp/bsh-harness/build_cmake/CMakeFiles/clean-build.dir
+C:/Users/jessi/AppData/Local/Temp/bsh-harness/build_cmake/CMakeFiles/edit_cache.dir
+C:/Users/jessi/AppData/Local/Temp/bsh-harness/build_cmake/CMakeFiles/rebuild_cache.dir
